@@ -35,7 +35,7 @@ The solutions have been organized as follows:
 ## License
 This project is open-sourced under the [MIT License](LICENSE).
 
-------------------------------------------------------------------------------------------------------------------------
+---
 
 # Linear Algebra Solutions (线性代数习题集解析)
 
